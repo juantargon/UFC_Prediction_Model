@@ -1,0 +1,35 @@
+# Entorno Virtual
+venv/
+env/
+ENV/
+bin/
+lib/
+include/
+
+# Variables de entorno (Seguridad)
+.env
+
+# Archivos de Python (Caché)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Datos y datasets (Opcional)
+# Si los CSVs son muy pesados, mejor no subirlos. 
+# Pero si quieres que tu profesor los vea, comenta las siguientes líneas:
+# *.csv
+# *.json
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Modelos entrenados (Suelen pesar mucho)
+*.h5
+*.keras
+*.tflite
+*.pb
+saved_model/
+
+# IDEs
+.vscode/
+.idea/
