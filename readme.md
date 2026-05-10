@@ -2,6 +2,8 @@
 
 Este proyecto utiliza redes neuronales para predecir las probabilidades de victoria en combates de la UFC, utilizando datos históricos de peleadores y resultados de eventos.
 
+https://www.kaggle.com/datasets/jossilva3110/ufc-dataset-1994-2026/data
+
 ## 📊 Diccionario de Datos
 
 ### 1. Dataset de Peleadores (`df_peleadores`)
